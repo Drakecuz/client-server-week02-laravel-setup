@@ -135,7 +135,8 @@ http://127.0.0.1:8000
 Verify that the Laravel application loads successfully.
 Capture a screenshot of the running application.
 
-Screenshot: 
+Screenshot:
+
 ![PHP Artisan Serve](screenshots/artisan-serve.png)
 
 Step 9: Modify the Homepage
