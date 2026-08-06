@@ -123,7 +123,7 @@ laravel new hello-laravel
 Wait for the installation process to complete successfully.
 
 ![Laravel Project](screenshots/laravel-project-2.png)
-![Laravel Project 2](screenshots/laravel-project-2 (2).png)
+![Laravel Project 2](screenshots/laravel-project-2(2).png)
 
 Step 8: Run the Laravel Application
 Navigate to the project directory.
