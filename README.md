@@ -44,7 +44,7 @@ VS Code Version: 1.132.0
 Step 1: 
 
 ```text
-1. Install PHP Download and install PHP 8.x.
+1. Install PHP and install PHP 8.x.
 2  Open Command Prompt.
 3. Verify the installation by running: php -v
 4. Ensure that the installed PHP version is displayed.
@@ -55,11 +55,10 @@ Screenshot: ![PHP Version](screenshots/php-version.png)
 
 ```text
 Step 2: 
-1. Install Composer Download and install Composer.
+1. Install Composer from the website.
 2. Open Command Prompt.
-3. Verify the installation by running:
-4. composer -V
-5. Confirm that the Composer version is displayed.
+3. Verify the installation by running: composer -V
+4. Confirm that the Composer version is displayed.
 5. Capture a screenshot of the successful verification.
 ```
 
