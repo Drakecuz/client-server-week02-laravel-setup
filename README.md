@@ -40,7 +40,7 @@ The purpose of this project is to set up and configure a Laravel development env
 <h1>Installation Steps</h1>
 
 Step 1: 
-Install PHP Download and install PHP 8.x.
+**Install PHP Download and install PHP 8.x.**
 Open Command Prompt.
 Verify the installation by running:
 php -v
