@@ -69,18 +69,6 @@ Step 3:
 1. Install Laravel 
 2. Install the Laravel Installer using Composer.
 3. Verify the installation by running either: laravel -V
-
-or
-
-4. composer global show laravel/installer
-5. Confirm that the Laravel version is displayed.
-6. Capture a screenshot of the successful verification.
-
-or
-
-7. composer global show laravel/installer
-8. Confirm that the Laravel version is displayed.
-9. Capture a screenshot of the successful verification.
 ```
 
 Screenshot: ![Laravel Version](screenshots/laravel-version.png)
@@ -126,11 +114,7 @@ Step 7:
 2. Open Command Prompt.
 3. Create a new Laravel project using one of the following commands:
 4. composer create-project laravel/laravel hello-laravel
-
-or
-
-5. laravel new hello-laravel
-6. Wait for the installation process to complete successfully.
+5. Wait for the installation process to complete successfully.
 ```
 ![Laravel Project](screenshots/laravel-project-2.png)
 ![Laravel Project 2](screenshots/laravel-project-22.png)'
