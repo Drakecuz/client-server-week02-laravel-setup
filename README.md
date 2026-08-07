@@ -42,15 +42,19 @@ VS Code Version: 1.132.0
 <h1>Installation Steps</h1>
 
 Step 1: 
-**Install PHP Download and install PHP 8.x.**
+
+```text
+Install PHP Download and install PHP 8.x.
 Open Command Prompt.
 Verify the installation by running:
 php -v
 Ensure that the installed PHP version is displayed.
 Capture a screenshot of the successful verification.
+```
 
 Screenshot: ![PHP Version](screenshots/php-version.png)
 
+```text
 Step 2: 
 Install Composer Download and install Composer.
 Open Command Prompt.
@@ -58,9 +62,11 @@ Verify the installation by running:
 composer -V
 Confirm that the Composer version is displayed.
 Capture a screenshot of the successful verification.
+```
 
 Screenshot: ![Composer Version](screenshots/composer-version.png)
 
+```text
 Step 3: 
 Install Laravel 
 Install the Laravel Installer using Composer.
@@ -83,6 +89,7 @@ or
 composer global show laravel/installer
 Confirm that the Laravel version is displayed.
 Capture a screenshot of the successful verification.
+```
 
 Screenshot: ![Laravel Version](screenshots/laravel-version.png)
 
