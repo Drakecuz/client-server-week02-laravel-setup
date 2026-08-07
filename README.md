@@ -37,13 +37,13 @@ The purpose of this project is to set up and configure a Laravel development env
 <h1>Development Environment</h1>
 
 
-Operating System: Windows 11
-PHP Version: 8.5.9
-Laravel Version: 5.31.1
-Composer Version: 2.10.1
-Git Version: 2.55.0.windows.3
-MySQL Version: 8.0.46
-VS Code Version: 1.132.0
+**Operating System:** Windows 11
+**PHP Version:** 8.5.9
+**Laravel Version:** 5.31.1
+**Composer Version:** 2.10.1
+**Git Version:** 2.55.0.windows.3
+**MySQL Version:** 8.0.46
+**VS Code Version:** 1.132.0
 
 
 <h1>Installation Steps</h1>
