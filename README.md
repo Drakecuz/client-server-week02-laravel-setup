@@ -4,17 +4,24 @@ Drake Dylan R. Natividad - BSIT3B
 
 <h1>Brief Overview of Laravel</h1>
 
+
 Laravel is a free, open-source PHP web application framework designed to simplify web development. It follows the Model-View-Controller (MVC) architecture, which organizes application logic, user interfaces, and data management into separate components. Laravel provides built-in features such as routing, authentication, database migration, and templating, allowing developers to create secure, scalable, and maintainable web applications efficiently.
+
 
 <h1>Importance of Client-Server Technologies</h1>
 
+
 Client-server technology is the foundation of modern web applications. In this architecture, the client (such as a web browser) sends requests to the server, and the server processes those requests before returning the appropriate response. This approach enables centralized data management, improved security, easier maintenance, and efficient communication between users and web applications. Understanding client-server technologies is essential for developing dynamic and interactive websites.
+
 
 <h1>Purpose of the Project</h1>
 
+
 The purpose of this project is to set up and configure a Laravel development environment while gaining practical experience with the client-server architecture. Through this project, students will learn how to install Laravel, run a local development server, understand the project's folder structure, and create a basic homepage. The project serves as a foundation for developing more advanced web applications using the Laravel framework.
 
+
 <h1>Objectives</h1>
+
 
 1. To install and configure the required software for Laravel development, including PHP, Composer, Laravel, Git, MySQL, and Visual Studio Code.
 
@@ -26,7 +33,9 @@ The purpose of this project is to set up and configure a Laravel development env
 
 5. To develop professional technical documentation by preparing a comprehensive README file with installation steps, project structure, screenshots, challenges encountered, and solutions.
 
+
 <h1>Development Environment</h1>
+
 
 Operating System: Windows 11
 PHP Version: 8.5.9
@@ -36,29 +45,36 @@ Git Version: 2.55.0.windows.3
 MySQL Version: 8.0.46
 VS Code Version: 1.132.0
 
+
 <h1>Installation Steps</h1>
 
-Step 1: Install PHP
-Download and install PHP 8.x.
+
+Step 1: 
+Install PHP Download and install PHP 8.x.
 Open Command Prompt.
 Verify the installation by running:
 php -v
 Ensure that the installed PHP version is displayed.
 Capture a screenshot of the successful verification.
 
+
 Screenshot: ![PHP Version](screenshots/php-version.png)
 
-Step 2: Install Composer
-Download and install Composer.
+
+Step 2: 
+Install Composer Download and install Composer.
 Open Command Prompt.
 Verify the installation by running:
 composer -V
 Confirm that the Composer version is displayed.
 Capture a screenshot of the successful verification.
 
+
 Screenshot: ![Composer Version](screenshots/composer-version.png)
 
-Step 3: Install Laravel
+
+Step 3: 
+Install Laravel 
 Install the Laravel Installer using Composer.
 Verify the installation by running either:
 laravel -V
@@ -80,9 +96,12 @@ composer global show laravel/installer
 Confirm that the Laravel version is displayed.
 Capture a screenshot of the successful verification.
 
+
 Screenshot: ![Laravel Version](screenshots/laravel-version.png)
 
-Step 4: Install Git
+
+Step 4: 
+Install Git
 Download and install Git.
 Open Command Prompt.
 Verify the installation by running:
@@ -90,9 +109,12 @@ git --version
 Confirm that the installed Git version is displayed.
 Capture a screenshot of the successful verification.
 
+
 Screenshot: ![Git Version](screenshots/git-version.png)
 
-Step 5: Install MySQL
+
+Step 5: 
+Install MySQL
 Install MySQL Server.
 Open Command Prompt.
 Verify the installation by running:
@@ -100,15 +122,20 @@ mysql --version
 Confirm that the installed MySQL version is displayed.
 Capture a screenshot of the successful verification.
 
+
 Screenshot: ![MySQL Version](screenshots/mysql-version.png)
 
-Step 6: Install Visual Studio Code
+
+Step 6: 
+Install Visual Studio Code
 Download and install Visual Studio Code.
 Launch Visual Studio Code.
 Open the Laravel project folder.
 Capture a screenshot showing the project opened in Visual Studio Code.
 
+
 Screenshot: ![VS Code Project](screenshots/laravel-project.png)
+
 
 Step 7: Create a Laravel Project
 Open Command Prompt.
@@ -122,6 +149,7 @@ Wait for the installation process to complete successfully.
 
 ![Laravel Project](screenshots/laravel-project-2.png)
 ![Laravel Project 2](screenshots/laravel-project-22.png)
+
 
 Step 8: Run the Laravel Application
 Navigate to the project directory.
@@ -137,7 +165,9 @@ Screenshot:
 
 ![PHP Artisan Serve](screenshots/artisan-serve.png)
 
-Step 9: Modify the Homepage
+
+Step 9: 
+Modify the Homepage
 Edit the homepage of the Laravel application.
 Display the following information:
 Student Name
@@ -152,7 +182,9 @@ Capture a screenshot of the customized homepage.
 
 Screenshot: ![Laravel Homepage](screenshots/hello-laravel-homepage.png)
 
+
 <h1>Project Structure</h1>
+
 
 app/
 
@@ -178,7 +210,9 @@ database/
 
 The `database/` folder contains files related to database management, including migrations, seeders, and factories. These files are used to create, modify, and populate the application's database.
 
+
 <h1>Problems Encountered</h1>
+
 
 1. Laravel Installer Command Not Found
 
@@ -205,7 +239,9 @@ When running `php artisan serve`, the Laravel development server started success
 
 The issue was resolved by allowing PHP or the Laravel development server through Windows Firewall. Once permission was granted, the local server became accessible, and the application loaded successfully in the browser at http://127.0.0.1:8000.
 
+
 <h1>Reflection</h1>
+
 
 Completing this laboratory activity gave me a better understanding of how a Laravel development environment is set up and how client-server technologies work together in web development. Before this activity, I was only familiar with the basic concepts of PHP and web development. By installing PHP, Composer, Laravel, Git, MySQL, and Visual Studio Code, I learned the purpose of each tool and how they work together to create and manage Laravel applications.
 
@@ -215,7 +251,9 @@ Laravel is important in client-server development because it provides a structur
 
 Overall, this activity strengthened my confidence in setting up a professional development environment and using Git for version control. The knowledge and skills I gained will serve as a strong foundation for future Laravel projects and more advanced client-server applications throughout the semester.
 
+
 <h1>References</h1>
+
 
 Laravel. (2026). *Laravel documentation*. https://laravel.com/docs
 
