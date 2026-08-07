@@ -36,7 +36,7 @@ The purpose of this project is to set up and configure a Laravel development env
 
 <h1>Development Environment</h1>
 
-
+| :--- | :--- |
 | **Operating System:** | Windows 11 |
 | **PHP Version:** | 8.5.9 |
 | **Laravel Version:** | 5.31.1 |
