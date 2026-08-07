@@ -242,3 +242,7 @@ Git. (2026). *Git documentation*. https://git-scm.com/doc
 Microsoft. (2026). *Visual Studio Code documentation*. https://code.visualstudio.com/docs
 
 Oracle. (2026). *MySQL documentation*. https://dev.mysql.com/doc/
+
+LinkedIn Portfolio Activity
+
+<h1>**https://lnkd.in/p/ge7G_94Y**</h1>
