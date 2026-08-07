@@ -68,7 +68,7 @@ Screenshot: ![Composer Version](screenshots/composer-version.png)
 Step 3: 
 1. Install Laravel 
 2. Install the Laravel Installer using Composer.
-3. Verify the installation by running either: laravel -V
+3. Verify the installation by running: laravel -V
 ```
 
 Screenshot: ![Laravel Version](screenshots/laravel-version.png)
