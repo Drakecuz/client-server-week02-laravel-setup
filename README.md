@@ -28,16 +28,16 @@ The purpose of this project is to set up and configure a Laravel development env
 
 
 <h1>Development Environment</h1>
-| **Operating System:** | Windows 11 |
-| **PHP Version:** | 8.5.9 |
-| **Laravel Version:** | 5.31.1 |
-| **Composer Version:** | 2.10.1 |
-| **Git Version:** | 2.55.0.windows.3 |
-| **MySQL Version:** | 8.0.46 |
-| **VS Code Version:** | 1.132.0 |
+
+**Operating System:** Windows 11
+**PHP Version:** 8.5.9
+**Laravel Version:** 5.31.1
+**Composer Version:** 2.10.1
+**Git Version:** 2.55.0.windows.3 
+**MySQL Version:** 8.0.46
+**VS Code Version:** 1.132.0
 
 <h1>Installation Steps</h1>
-
 
 Step 1: 
 Install PHP Download and install PHP 8.x.
@@ -47,9 +47,7 @@ php -v
 Ensure that the installed PHP version is displayed.
 Capture a screenshot of the successful verification.
 
-
 Screenshot: ![PHP Version](screenshots/php-version.png)
-
 
 Step 2: 
 Install Composer Download and install Composer.
@@ -59,9 +57,7 @@ composer -V
 Confirm that the Composer version is displayed.
 Capture a screenshot of the successful verification.
 
-
 Screenshot: ![Composer Version](screenshots/composer-version.png)
-
 
 Step 3: 
 Install Laravel 
@@ -86,9 +82,7 @@ composer global show laravel/installer
 Confirm that the Laravel version is displayed.
 Capture a screenshot of the successful verification.
 
-
 Screenshot: ![Laravel Version](screenshots/laravel-version.png)
-
 
 Step 4: 
 Install Git
@@ -99,9 +93,7 @@ git --version
 Confirm that the installed Git version is displayed.
 Capture a screenshot of the successful verification.
 
-
 Screenshot: ![Git Version](screenshots/git-version.png)
-
 
 Step 5: 
 Install MySQL
@@ -112,9 +104,7 @@ mysql --version
 Confirm that the installed MySQL version is displayed.
 Capture a screenshot of the successful verification.
 
-
 Screenshot: ![MySQL Version](screenshots/mysql-version.png)
-
 
 Step 6: 
 Install Visual Studio Code
@@ -123,9 +113,7 @@ Launch Visual Studio Code.
 Open the Laravel project folder.
 Capture a screenshot showing the project opened in Visual Studio Code.
 
-
 Screenshot: ![VS Code Project](screenshots/laravel-project.png)
-
 
 Step 7: Create a Laravel Project
 Open Command Prompt.
@@ -140,7 +128,6 @@ Wait for the installation process to complete successfully.
 ![Laravel Project](screenshots/laravel-project-2.png)
 ![Laravel Project 2](screenshots/laravel-project-22.png)
 
-
 Step 8: Run the Laravel Application
 Navigate to the project directory.
 cd hello-laravel
@@ -154,7 +141,6 @@ Capture a screenshot of the running application.
 Screenshot:
 
 ![PHP Artisan Serve](screenshots/artisan-serve.png)
-
 
 Step 9: 
 Modify the Homepage
@@ -172,9 +158,7 @@ Capture a screenshot of the customized homepage.
 
 Screenshot: ![Laravel Homepage](screenshots/hello-laravel-homepage.png)
 
-
 <h1>Project Structure</h1>
-
 
 app/
 
@@ -200,9 +184,7 @@ database/
 
 The `database/` folder contains files related to database management, including migrations, seeders, and factories. These files are used to create, modify, and populate the application's database.
 
-
 <h1>Problems Encountered</h1>
-
 
 1. Laravel Installer Command Not Found
 
@@ -229,9 +211,7 @@ When running `php artisan serve`, the Laravel development server started success
 
 The issue was resolved by allowing PHP or the Laravel development server through Windows Firewall. Once permission was granted, the local server became accessible, and the application loaded successfully in the browser at http://127.0.0.1:8000.
 
-
 <h1>Reflection</h1>
-
 
 Completing this laboratory activity gave me a better understanding of how a Laravel development environment is set up and how client-server technologies work together in web development. Before this activity, I was only familiar with the basic concepts of PHP and web development. By installing PHP, Composer, Laravel, Git, MySQL, and Visual Studio Code, I learned the purpose of each tool and how they work together to create and manage Laravel applications.
 
@@ -241,9 +221,7 @@ Laravel is important in client-server development because it provides a structur
 
 Overall, this activity strengthened my confidence in setting up a professional development environment and using Git for version control. The knowledge and skills I gained will serve as a strong foundation for future Laravel projects and more advanced client-server applications throughout the semester.
 
-
 <h1>References</h1>
-
 
 Laravel. (2026). *Laravel documentation*. https://laravel.com/docs
 
@@ -256,4 +234,3 @@ Git. (2026). *Git documentation*. https://git-scm.com/doc
 Microsoft. (2026). *Visual Studio Code documentation*. https://code.visualstudio.com/docs
 
 Oracle. (2026). *MySQL documentation*. https://dev.mysql.com/doc/
-
