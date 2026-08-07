@@ -44,126 +44,126 @@ VS Code Version: 1.132.0
 Step 1: 
 
 ```text
-Install PHP Download and install PHP 8.x.
-Open Command Prompt.
-Verify the installation by running:
-php -v
-Ensure that the installed PHP version is displayed.
-Capture a screenshot of the successful verification.
+1. Install PHP Download and install PHP 8.x.
+2  Open Command Prompt.
+3. Verify the installation by running: php -v
+4. Ensure that the installed PHP version is displayed.
+5. Capture a screenshot of the successful verification.
 ```
 
 Screenshot: ![PHP Version](screenshots/php-version.png)
 
 ```text
 Step 2: 
-Install Composer Download and install Composer.
-Open Command Prompt.
-Verify the installation by running:
-composer -V
-Confirm that the Composer version is displayed.
-Capture a screenshot of the successful verification.
+1. Install Composer Download and install Composer.
+2. Open Command Prompt.
+3. Verify the installation by running:
+4. composer -V
+5. Confirm that the Composer version is displayed.
+5. Capture a screenshot of the successful verification.
 ```
 
 Screenshot: ![Composer Version](screenshots/composer-version.png)
 
 ```text
 Step 3: 
-Install Laravel 
-Install the Laravel Installer using Composer.
-Verify the installation by running either:
-laravel -V
+1. Install Laravel 
+2. Install the Laravel Installer using Composer.
+3. Verify the installation by running either: laravel -V
 
 or
 
-composer global show laravel/installer
-Confirm that the Laravel version is displayed.
-Capture a screenshot of the successful verification.
-
-Screenshot: Step 3: Install Laravel
-Install the Laravel Installer using Composer.
-Verify the installation by running either:
-laravel -V
+4. composer global show laravel/installer
+5. Confirm that the Laravel version is displayed.
+6. Capture a screenshot of the successful verification.
 
 or
 
-composer global show laravel/installer
-Confirm that the Laravel version is displayed.
-Capture a screenshot of the successful verification.
+7. composer global show laravel/installer
+8. Confirm that the Laravel version is displayed.
+9. Capture a screenshot of the successful verification.
 ```
 
 Screenshot: ![Laravel Version](screenshots/laravel-version.png)
 
+```text
 Step 4: 
-Install Git
-Download and install Git.
-Open Command Prompt.
-Verify the installation by running:
-git --version
-Confirm that the installed Git version is displayed.
-Capture a screenshot of the successful verification.
+1. Install Git
+2. Download and install Git.
+3. Open Command Prompt.
+4. Verify the installation by running: git --version
+5. Confirm that the installed Git version is displayed.
+6. Capture a screenshot of the successful verification.
+```
 
 Screenshot: ![Git Version](screenshots/git-version.png)
 
+```text
 Step 5: 
-Install MySQL
-Install MySQL Server.
-Open Command Prompt.
-Verify the installation by running:
-mysql --version
-Confirm that the installed MySQL version is displayed.
-Capture a screenshot of the successful verification.
+1. Install MySQL
+2. Install MySQL Server.
+3. Open Command Prompt.
+4. Verify the installation by running: mysql --version
+5. Confirm that the installed MySQL version is displayed.
+6. Capture a screenshot of the successful verification.
+```
 
 Screenshot: ![MySQL Version](screenshots/mysql-version.png)
 
+```text
 Step 6: 
-Install Visual Studio Code
-Download and install Visual Studio Code.
-Launch Visual Studio Code.
-Open the Laravel project folder.
-Capture a screenshot showing the project opened in Visual Studio Code.
+1. Install Visual Studio Code
+2. Download and install Visual Studio Code.
+3. Launch Visual Studio Code.
+4. Open the Laravel project folder.
+5. Capture a screenshot showing the project opened in Visual Studio Code.
+```
 
 Screenshot: ![VS Code Project](screenshots/laravel-project.png)
 
-Step 7: Create a Laravel Project
-Open Command Prompt.
-Create a new Laravel project using one of the following commands:
-composer create-project laravel/laravel hello-laravel
+```text
+Step 7:
+1. Create a Laravel Project
+2. Open Command Prompt.
+3. Create a new Laravel project using one of the following commands:
+4. composer create-project laravel/laravel hello-laravel
 
 or
 
-laravel new hello-laravel
-Wait for the installation process to complete successfully.
-
+5. laravel new hello-laravel
+6. Wait for the installation process to complete successfully.
+```
 ![Laravel Project](screenshots/laravel-project-2.png)
-![Laravel Project 2](screenshots/laravel-project-22.png)
+![Laravel Project 2](screenshots/laravel-project-22.png)'
 
-Step 8: Run the Laravel Application
-Navigate to the project directory.
-cd hello-laravel
-Start the Laravel development server.
-php artisan serve
-Open your web browser and visit:
-http://127.0.0.1:8000
-Verify that the Laravel application loads successfully.
-Capture a screenshot of the running application.
-
+```text
+Step 8:
+1. Run the Laravel Application
+2. Navigate to the project directory. cd hello-laravel
+3. Start the Laravel development server. php artisan serve
+4. Open your web browser and visit: http://127.0.0.1:8000
+5. Verify that the Laravel application loads successfully.
+6. Capture a screenshot of the running application.
+```
 Screenshot:
 
 ![PHP Artisan Serve](screenshots/artisan-serve.png)
 
+```text
 Step 9: 
-Modify the Homepage
-Edit the homepage of the Laravel application.
-Display the following information:
-Student Name
-Student Number
-Course
-Section
-Subject
-Current Date
-Save the changes.
-Refresh the browser to verify the updated homepage.
-Capture a screenshot of the customized homepage.
+1. Modify the Homepage
+2. Edit the homepage of the Laravel application.
+3. Display the following information:
+4. Student Name
+5. Student Number
+6. Course
+7. Section
+8. Subject
+9. Current Date
+10. Save the changes.
+11. Refresh the browser to verify the updated homepage.
+12. Capture a screenshot of the customized homepage.
+```
 
 Screenshot: ![Laravel Homepage](screenshots/hello-laravel-homepage.png)
 
