@@ -245,4 +245,4 @@ Oracle. (2026). *MySQL documentation*. https://dev.mysql.com/doc/
 
 LinkedIn Portfolio Activity
 
-<h1>**https://lnkd.in/p/ge7G_94Y**</h1>
+**https://lnkd.in/p/ge7G_94Y**
