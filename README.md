@@ -2,7 +2,7 @@ HEAD
 # client-server-week02-laravel-setup
 Drake Dylan R. Natividad - BSIT3B
 
-Brief Overview of Laravel
+<h1>Brief Overview of Laravel</h1>
 
 Laravel is a free, open-source PHP web application framework designed to simplify web development. It follows the Model-View-Controller (MVC) architecture, which organizes application logic, user interfaces, and data management into separate components. Laravel provides built-in features such as routing, authentication, database migration, and templating, allowing developers to create secure, scalable, and maintainable web applications efficiently.
 
